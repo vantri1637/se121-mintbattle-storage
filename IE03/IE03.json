@@ -1,0 +1,8 @@
+{
+  "id": "IE03",
+  "name": "Golden Sword",
+  "image": "IE03.png",
+  "attributes": [
+    {"trait_type": "Attack Bonus", "value": 100}
+  ]
+}
