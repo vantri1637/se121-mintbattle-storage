@@ -1,6 +1,6 @@
 {
   "name": "GoldenSword",
-  "image": "GoldenSword.png",
+  "image": "https://raw.githubusercontent.com/vantri1637/se121-mintbattle-storage/refs/heads/main/GoldenSword/GoldenSword.png",
   "attributes": [
     {
       "trait_type": "Attack Bonus",

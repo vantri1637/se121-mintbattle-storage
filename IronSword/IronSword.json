@@ -1,6 +1,6 @@
 {
   "name": "IronSword",
-  "image": "IronSword.png",
+  "image": "https://raw.githubusercontent.com/vantri1637/se121-mintbattle-storage/refs/heads/main/IronSword/IronSword.png",
   "attributes": [
     {
       "trait_type": "Attack Bonus",
