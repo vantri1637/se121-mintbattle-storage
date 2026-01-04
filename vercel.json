@@ -17,7 +17,7 @@
         },
         {
           "key": "Access-Control-Allow-Headers",
-          "value": "X-CSRF-Token, X-Requested-With, Accept, Accept-Version, Content-Length, Content-MD5, Content-Type, Date, X-Api-Version, x-sdk-name"
+          "value": "X-CSRF-Token, X-Requested-With, Accept, Accept-Version, Content-Length, Content-MD5, Content-Type, Date, X-Api-Version, Authorization, x-sdk-name, x-sdk-version, x-sdk-platform, x-sdk-os, x-client-id, x-bundle-id, x-secret-key"
         }
       ]
     }
