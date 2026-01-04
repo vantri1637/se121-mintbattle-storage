@@ -1,8 +1,0 @@
-{
-  "id": "IE02",
-  "name": "Iron Sword",
-  "image": "IE02.png",
-  "attributes": [
-    {"trait_type": "Attack Bonus", "value": 75}
-  ]
-}
