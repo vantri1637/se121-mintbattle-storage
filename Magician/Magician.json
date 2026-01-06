@@ -1,5 +1,6 @@
 {
   "heroName": "Magician",
+  "image": "https://vantri1637.github.io/se121-mintbattle-storage/Wizard/Wizard.png",
   "baseHP": 700,
   "baseAttack": 50,
   "baseDefense": 45,
