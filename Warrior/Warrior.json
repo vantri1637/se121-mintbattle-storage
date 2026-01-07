@@ -1,21 +1,4 @@
 {
   "heroName": "Warrior",
   "image": "https://vantri1637.github.io/se121-mintbattle-storage/Warrior/Warrior.png",
-  "baseHP": 600,
-  "baseAttack": 40,
-  "baseDefense": 40,
-  "baseSpeed": 15,
-  "growthStats": 12,
-  "skills": [
-  {
-    "name": "Heavy Attack",
-    "description": "Attack a enemy, deal 200% ATK damage",
-    "cooldown": 1
-  },
-  {
-    "name": "Magic Sword",
-    "description": "Attack a enemy, deal 250% ATK damage",
-    "cooldown": 2
-  }
-]
 }
